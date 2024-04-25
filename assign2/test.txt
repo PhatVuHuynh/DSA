@@ -1,0 +1,14 @@
+REG Johnuigfifbahjasbdfhjbasdhjf
+REG iuasgfuigweibjaskdfbjksadf
+REG iuiwehruihqwUIAGSIDiernbsandfb
+REG uiewhqruihqiuwerhnbdasnbfnmasd
+REG ukkajhsdfjkasbndbmnFJKHJKsdbfsabdf
+REG kjasdbfjksbDFFDFFfdjksabfdjkasdf
+REG skjafdbkjasfnmFFFFsaddnfdf
+CLE 5
+PrintHT
+PrintHT
+PrintAVL
+PrintAVL
+PrintMH
+PrintMH
